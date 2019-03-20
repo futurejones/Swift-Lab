@@ -58,3 +58,5 @@ Install swift - `sudo apt install swift5dev`
 # The Swift-Lite Project
 ## Info about the Swift-Lite project [https://swift-lite.org/](https://swift-lite.org/)
 ### We will preview the Swift-Lite Raspberry Pi Edition in the workshop.
+
+[Back](README.md)
