@@ -2,9 +2,10 @@
 // A Swift-Lite Module File
 // type:module
 // name:date.swift
+
 import Foundation
 
-public func printToday(){
+func printToday(){
     let date = Date()
     let dateFormatter = DateFormatter()
 
