@@ -27,7 +27,7 @@
 # Raspberry Pi Setup
 
 ## Raspbian OS
-* ### Install the latest Raspbian Stretch Lite OS a good quality 8GB microSD card or larger.
+* ### Install the latest Raspbian Stretch Lite OS onto a good quality 8GB microSD card or larger.
 Etcher - [https://www.balena.io/etcher](https://www.balena.io/etcher)
 
 ApplePi-Baker - [https://www.tweaking4all.com](https://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/)
