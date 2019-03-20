@@ -5,7 +5,7 @@
 
 import Foundation
 
-public func printToday(){
+func printToday(){
     let date = Date()
     let dateFormatter = DateFormatter()
 
