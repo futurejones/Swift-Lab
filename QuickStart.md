@@ -59,4 +59,10 @@ Install swift - `sudo apt install swift5dev`
 ## Info about the Swift-Lite project [https://swift-lite.org/](https://swift-lite.org/)
 ### We will preview the Swift-Lite Raspberry Pi Edition in the workshop.
 
+## Kitura-Sample Installation
+```
+apt update && apt install -y wget pkg-config libcurl4-openssl-dev libssl-dev libatomic1 libxml2 netcat-openbsd lsof perl git curl nano
+git clone https://github.com/Kitura-Next/Kitura-Sample && cd Kitura-Sample && swift build
+```
+
 [Back](README.md)
